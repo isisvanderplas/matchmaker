@@ -1,3 +1,0 @@
-class MatchingPair < ApplicationRecord
-  
-end
