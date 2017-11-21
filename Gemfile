@@ -10,6 +10,8 @@ gem 'devise', '~> 4.2'
 
 gem 'cancancan', '~> 2.0'
 
+gem 'round_robin_tournament'
+
 # Use Bootstrap for styling
 gem 'bootstrap-sass', '~> 3.3.6'
 
