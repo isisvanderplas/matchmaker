@@ -7,6 +7,7 @@ end
 
 # Use Devise for authentication
 gem 'devise', '~> 4.2'
+gem 'cancancan', '~> 2.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
