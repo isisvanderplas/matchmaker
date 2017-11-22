@@ -5,4 +5,6 @@ Rails.application.routes.draw do
   get '/pairings/?' => "pairs#show"
 
   devise_for :users
+
+  
 end
