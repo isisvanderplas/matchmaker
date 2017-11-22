@@ -3,4 +3,6 @@ Rails.application.routes.draw do
 
   get "/pairings" => "pages#pairings"
   devise_for :users
+
+  
 end
